@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" /> </p>
 
--   💬 Ask me about **JavaScript, React, Node.js, Python, C#**
+-   💬 Ask me about **git, JavaScript, React, Node.js, Python, C#**
 
 -   📫 How to reach me **samir@hyfbe.be**
 
