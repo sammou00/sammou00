@@ -21,6 +21,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-icon.svg" alt="cypress" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="20" height="20"/>
+  <img src="https://socket.io/assets/img/logo.svg" alt="socket.io" width="20" height="20"/>
 </p>
 
 #### Python:
@@ -38,6 +42,11 @@
 #### Java:
 <p>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/>
+</p>
+
+#### C++:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
 </p>
 
 #### Databases
@@ -73,4 +82,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
 </p>
+
 
