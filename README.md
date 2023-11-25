@@ -34,25 +34,25 @@
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="20" height="20"/>
 </p>
 
-#### Python:
+#### Python
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/>
 </p>
 
-#### C#:
+#### C#
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/>
 </p>
 
-#### Java:
+#### Java
 <p>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/>
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
 </p>
 
-#### C++:
+#### C++
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
 </p>
@@ -65,7 +65,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
 </p>
 
-#### Container and Deployment:
+#### Container and Deployment
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/>
@@ -74,7 +74,7 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
 </p>
 
-#### Other Technologies:
+#### Other Technologies
 <p>
   <img src="https://www.napsgfoundation.org/wp-content/uploads/2022/02/ArcGIS-Pro.png" alt="arcgis" width="20" height="20">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/>
