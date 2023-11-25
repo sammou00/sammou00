@@ -56,9 +56,8 @@
 -   [Vercel](https://vercel.com/) <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
 
 #### Other Technologies:
-
+-   [ArcGIS](https://www.arcgis.com/) <img src="https://seeklogo.com/images/A/arcgis-logo-41B0544B5E-seeklogo.com.png" alt="arcgis" width="20" height="20">
 -   [Linux](https://www.linux.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
-
 -   [Git](https://git-scm.com/) <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
 -   [GitHub](https://github.com/) <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="20" height="20"/>
 -   [Figma](https://www.figma.com/) <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
