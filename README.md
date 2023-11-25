@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" /> </p>
 
--   💬 Ask me about **Git, JavaScript, React, Node.js, Python, C#, Java, C++**
+- 💬 Ask me about **Git, JavaScript, React, Node.js, Python, C#, Java, C++**
 
--   📫 How to reach me **samir@hyfbe.be**
+- 📫 How to reach me **samir@hyfbe.be**
 
 <p align="left">
 </p>
