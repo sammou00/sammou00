@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">Programmer | coach | education coordinator </h3>
+<h3 align="center">Programmer | Coach | Education coordinator </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" /> </p>
 
