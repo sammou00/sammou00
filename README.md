@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">Programmer | Coach | Education coordinator </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" /> </p>
+<h2 align="center">Welcome to My Coding World 👨‍💻</h2>
+<h3 align="center">Programmer | Coach | Education Coordinator</h3>
 
--   💬 Ask me about **Git, JavaScript, Python, C#, Java, C++**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
+</p>
 
--   📫 How to reach me **samir@hyfbe.be**
+- 💬 Ask me about **Git, JavaScript, Python, C#, Java, C++**
+- 📫 How to reach me: **samir@hyfbe.be**
 
 ### Languages and Tools:
 
@@ -79,9 +82,12 @@
 </p>
 
 #### Deployment
+<p align="left">
  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20" height="20"/>
+</p>
 
 #### Other Technologies
 
