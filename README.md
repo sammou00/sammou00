@@ -71,15 +71,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
 </p>
 
-#### Container and Deployment
+#### Container
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
 </p>
+
+#### Deployment
+ <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="20" height="20"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="20" height="20"/>
 
 #### Other Technologies
 
