@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-
-<h2 align="center">Welcome to My Coding World 👨‍💻</h2>
 <h3 align="center">Programmer | Coach | Education Coordinator</h3>
 
 <p align="center">
