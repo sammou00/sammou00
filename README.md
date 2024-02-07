@@ -77,7 +77,7 @@
 #### AWS, Azure
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/>
 </p>
 
