@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
 </p>
 
--   💬 Ask me about **JavaScript, Python, C#, Java, C++ and Rust**
--   📫 How to reach me: **samir@hyfbe.be**
+-   💬 Ask me about **JavaScript, Python, C#, Java, C++ and Rust.**
+-   📫 How to reach me: **sammoham.be@gmail.com**
 
 ### Core Web Technologies:
 
@@ -19,13 +19,12 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
 </p>
 
-### JavaScript Stack:
+### FrontEnd Development:
 
 #### JavaScript, TypeScript, Frontend Libraries
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="20" height="20"/>
@@ -37,6 +36,8 @@
 #### Python, Java, C#
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/express.svg" alt="express" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/>
