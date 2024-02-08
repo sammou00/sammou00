@@ -33,7 +33,7 @@
 
 ### Backend Development:
 
-#### Python, Java, C#
+#### Node.js, Python, Java, C#
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
