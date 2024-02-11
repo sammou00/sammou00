@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
 </p>
 
--   💬 Ask me about **JavaScript, Python, C#, Java, C++ and Rust**
+-   💬 Ask me about **JavaScript, Python, C#, Java, and Rust**
 -   📫 How to reach me: **samir@hyfbe.be**
 
 ### Core Web Technologies:
@@ -47,10 +47,9 @@
 
 ### System-Level Languages:
 
-#### C++, Rust
+#### Rust
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="20" height="20"/>
 </p>
 
