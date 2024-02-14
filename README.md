@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
 </p>
 
-- 💬 Ask me about **JavaScript, Python, C#, Java, and Rust**
-- 📫 How to reach me: **samir@hyfbe.be**
+-   💬 Ask me about **JavaScript, Python, C#, Java, C++ and Rust**
+-   📫 How to reach me: **samir@hyfbe.be**
 
 ### Core Web Technologies:
 
@@ -48,9 +48,10 @@
 
 ### System-Level Languages:
 
-#### Rust
+#### C++ and Rust
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="20" height="20"/>
 </p>
 
@@ -83,10 +84,11 @@
 
 ### Other Technologies:
 
-#### Linux, Version Control
+#### Bash scripting, Linux, Version Control
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="20" height="20"/>
 </p>
