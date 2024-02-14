@@ -57,7 +57,7 @@ I am a programmer. Feel free to reach out to me at [samir@hyfbe.be](mailto:samir
 
 ### Data Management:
 
-#### Databases
+#### MySQL, MongoDB
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
