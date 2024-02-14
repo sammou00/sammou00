@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">Developer</h3>
+# Samir's GitHub Profile
+
+## Hi there! 👋 I'm Samir.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
 </p>
 
--   💬 Ask me about **JavaScript, Python, C#, Java, C++ and Rust**
--   📫 How to reach me: **samir@hyfbe.be**
+### About Me
+
+I am a programmer. Feel free to reach out to me at [samir@hyfbe.be](mailto:samir@hyfbe.be) for any inquiries or discussions.
 
 ### Core Web Technologies:
 
@@ -16,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
 </p>
 
 ### FrontEnd Development:
