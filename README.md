@@ -1,6 +1,4 @@
-
 <h1 align="center"> Hi there! 👋 I'm Samir.</h1>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
@@ -50,7 +48,7 @@ I am a programmer. Feel free to reach out to me at [samir@hyfbe.be](mailto:samir
 
 ### System-Level Languages:
 
-#### C++ and Rust
+#### C++, Rust
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20" height="20"/>
