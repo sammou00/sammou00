@@ -43,7 +43,7 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 ## Love to Learn
 
 -   **Web Development**: Java, .NET
--   **System Level Languages**: Rust
+-   **System Level Languages**: Rust, C++
 -   **Cloud Platforms**: AWS, Azure
 
 ## Get in Touch
@@ -51,7 +51,3 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 📧 Email: [sammoham.be@gmail.com](mailto:sammoham.be@gmail.com)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about programming and tech!
-
-## Stats
-
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
