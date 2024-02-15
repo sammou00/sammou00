@@ -17,7 +17,7 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 
 ### Web Development
 
--   HTML, CSS
+-   HTML, CSS, Sass, less
 -   React, Node.js, Django
 
 ### Database
