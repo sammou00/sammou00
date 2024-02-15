@@ -1,94 +1,57 @@
-<h1 align="center"> Hi there! 👋 I'm Samir.</h1>
+# Hi there, I'm Samir! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samirm00&label=Profile%20views&color=0e75b6&style=flat" alt="samirm00" />
-</p>
+I'm a passionate JavaScript and Python developer based in Brussels. Welcome to my GitHub profile, where I love to experiment with code and contribute to exciting projects.
 
-### About Me
+## About Me
 
-I am a programmer. Feel free to reach out to me at [samir@hyfbe.be](mailto:samir@hyfbe.be) for any inquiries or discussions.
+💻 I'm proficient in JavaScript and Python, with experience in building web applications and backend services.
 
-### Core Web Technologies:
+🌐 Currently exploring the world of full-stack development and always eager to learn new technologies.
 
-#### HTML , CSS and Design
+## Key Skills
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
-</p>
+### Languages
 
-### FrontEnd Development:
+-   JavaScript
+-   Python
 
-#### JavaScript, TypeScript, Frontend Libraries
+### Web Development
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react-native" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
-</p>
+-   HTML, CSS
+-   React, Node.js, Django
 
-### Backend Development:
+### Database
 
-#### Node.js, Python, Java, C#
+-   MongoDB
+-   MySQL
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="20"/>
-   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/>
-</p>
+### Version Control
 
-### System-Level Languages:
+-   Git
+-   GitHub
 
-#### C++, Rust
+### Containerization and Orchestration
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="20" height="20"/>
-</p>
+-   Docker
+-   Kubernetes
 
-### Data Management:
+### Other Technologies
 
-#### MySQL, MongoDB
+-   Bash scripting
+-   Linux
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
-</p>
+## Love to Learn
 
-### Containerization and Orchestration:
+-   **Web Development**: Java, .NET
+-   **System Level Languages**: Rust
+-   **Cloud Platforms**: AWS, Azure
 
-#### Docker, Kubernetes
+## Get in Touch
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/>
-</p>
+📧 Email: [sammoham.be@gmail.com](mailto:sammoham.be@gmail.com)
 
-### Cloud Platforms:
+Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about programming and tech!
 
-#### AWS, Azure
+## Stats
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/>
-</p>
-
-### Other Technologies:
-
-#### Bash scripting, Linux, Version Control
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="20" height="20"/>
-</p>
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
