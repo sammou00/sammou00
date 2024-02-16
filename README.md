@@ -40,7 +40,7 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 -   Bash scripting
 -   Linux
 
-## Love to Learn
+## Learning
 
 -   **Web Development**: Java, .NET
 -   **System Level Languages**: Rust, C++
