@@ -14,13 +14,13 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 
 -   JavaScript
 -   Python
--   .NET
+-   C#
 -   Java
 
 ### Web Development
 
 -   HTML, CSS, Sass, Less
--   React, Node.js, Django
+-   React, Node.js, Django, .NET, Spring
 
 ### Database
 
@@ -44,7 +44,7 @@ I'm a passionate JavaScript and Python developer based in Brussels. Welcome to m
 
 ## Learning
 
--   **System Level Languages**: Rust, C++
+-   **System Level Languages**: Rust, C,  C++
 -   **Cloud Platforms**: AWS, Azure
 
 ## Get in Touch
