@@ -8,7 +8,7 @@ Hello there! I'm Samir, a dedicated Programmer residing in the vibrant city of B
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirm00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirm00&layout=compact&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Expertise
 ### Languages
