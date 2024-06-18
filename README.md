@@ -1,15 +1,16 @@
 # Welcome to My GitHub Profile! 👋
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirm00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About Me
 
 Hello there! I'm Samir, a dedicated Programmer residing in the vibrant city of Brussels. My passion lies in crafting elegant solutions through JavaScript and Python, both of which I wield with proficiency. Within the realm of software development, I find joy in unraveling complex challenges and transforming ideas into tangible products.
 
-## Expertise
 
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirm00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Expertise
 ### Languages
 
 - JavaScript
