@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Samir, a dedicated Programmer residing in the vibrant city of Brussels. My passion lies in crafting elegant solutions through JavaScript and Python, both of which I wield with proficiency. Within the realm of software development, I find joy in unraveling complex challenges and transforming ideas into tangible products.
+Hello there! I'm Sam, a dedicated Programmer residing in the vibrant city of Brussels. My passion lies in crafting elegant solutions through JavaScript and Python, both of which I wield with proficiency. Within the realm of software development, I find joy in unraveling complex challenges and transforming ideas into tangible products.
 
 
 
