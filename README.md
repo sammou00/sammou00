@@ -8,7 +8,7 @@ Hello there! I'm Sam, a dedicated Programmer residing in the vibrant city of Bru
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirm00&layout=compact&hide=html,css&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammou00&layout=compact&hide=html,css&langs_count=10&theme=dark)
 
 
 ## Expertise
