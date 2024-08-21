@@ -61,7 +61,7 @@ My journey as a programmer is a perpetual quest for growth. Currently, I'm expan
 
 ## Connect With Me
 
-📧 Feel free to drop me a line at [sammoham.be@gmail.com](mailto:sammoham.be@gmail.com) if you'd like to discuss a project, collaborate, or simply geek out over programming and tech. I'm always open to new opportunities and engaging conversations!
+📧 Feel free to drop me a line at [sammoustafa00@gmail.com](mailto:sammoustafa00@gmail.com) if you'd like to discuss a project, collaborate, or simply geek out over programming and tech. I'm always open to new opportunities and engaging conversations!
 
 Thank you for visiting my profile, and I look forward to connecting with you!
 
