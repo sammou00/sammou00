@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Sam**, a passionate software developer based in **Brussels**. My expertise lies in writing clean, efficient code, with a particular focus on **JavaScript** and **Python**. I thrive on solving complex problems and turning innovative ideas into working products. Whether it’s back-end architecture, front-end design, or system-level programming, I’m always up for a challenge!
+Hello! I'm **Sam**, a passionate software Engineer based in **Brussels**. My expertise lies in writing clean, efficient code, with a particular focus on **JavaScript** and **Python**. I thrive on solving complex problems and turning innovative ideas into working products. Whether it’s back-end architecture, front-end design, or system-level programming, I’m always up for a challenge!
 
 ## 🛠️ Technologies & Tools
 
