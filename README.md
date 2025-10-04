@@ -2,30 +2,31 @@
 
 ## About Me
 
-Hello! I'm **Sam**, a passionate software Engineer based in **Brussels**. My expertise lies in writing clean, efficient code, with a particular focus on **JavaScript** and **Python**. I thrive on solving complex problems and turning innovative ideas into working products. Whether it’s back-end architecture, front-end design, or system-level programming, I’m always up for a challenge!
+Hello! I'm **Sam**, a **Software Engineer** based in **Brussels, Belgium**, with over **4 years of experience** building scalable and user-focused web applications. I specialize in **modern JavaScript technologies** with a focus on **performance, maintainability, and clean architecture**.
+I’m also passionate about **mentoring developers**, **teaching programming fundamentals**, and helping others grow through **real-world, project-based learning**.
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- **Proficient:** JavaScript, Python, Go, Ruby, C#, Java
-- **System-Level:** Rust, C, C++
 
-### Web Development
-- **Front-End:** HTML, CSS, Sass, Less
-- **Frameworks & Libraries:** React, Node.js, Django, .NET, Spring
+* **Proficient:** JavaScript, HTML, CSS
+* **Familiar:** Python, C#, Java, C, C++
+
+### Frameworks & Libraries
+
+* **Frontend:** React, Redux, Tailwind CSS
+* **Backend:** Node.js, Express
+* **Other:** .NET (C#), Spring (Java)
 
 ### Databases
 - MongoDB
 - MySQL
 
-### DevOps & Cloud
-- **Version Control:** Git, GitHub
-- **Containerization:** Docker, Kubernetes
-- **Cloud Platforms:** AWS, Azure
+### Tools & DevOps
 
-### Additional Skills
-- Bash scripting
-- Linux System Administration
+* Git, GitHub
+* Docker
+* Bash scripting & Linux
 
 ## 📊 GitHub Stats
 
